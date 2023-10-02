@@ -12,6 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/linear_box"
+        android
         android:elevation="10dp"
         android:orientation="vertical"
         android:padding="20dp"
@@ -30,6 +31,7 @@
             android:textSize="30sp"
             android:textStyle="bold"
             app:fontFamily="@font/paytone_one_regular" />
+
 
 
         <com.google.android.material.textfield.TextInputLayout
