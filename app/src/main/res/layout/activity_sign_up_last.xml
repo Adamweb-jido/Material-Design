@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:background="@drawable/linear_box"
         android:elevation="10dp"
-        android:layout_marginTop="20dp"
         android:orientation="vertical"
         android:padding="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
