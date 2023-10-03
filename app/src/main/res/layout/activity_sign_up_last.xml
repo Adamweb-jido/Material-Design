@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:background="@drawable/linear_box"
         adamweb
-
             Adamweb
         android:elevation="10dp"
         android:orientation="vertical"
