@@ -83,7 +83,8 @@
             android:backgroundTint="@android:color/transparent"
             android:text="@string/Login_str"
             android:textColor="@color/black"
-            app:cornerRadius="10dp" />
+            app:cornerRadius="10dp"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"/>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
