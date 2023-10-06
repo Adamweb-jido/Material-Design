@@ -82,6 +82,8 @@
             android:layout_marginTop="20dp"
             android:backgroundTint="@android:color/transparent"
             android:text="@string/Login_str"
+            android:textStyle="bold"
+            android:accessibilityDataSensitive="yes"
             android:textColor="@color/black"
             app:cornerRadius="10dp"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton"/>
