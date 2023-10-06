@@ -83,7 +83,6 @@
             android:backgroundTint="@android:color/transparent"
             android:text="@string/Login_str"
             android:textStyle="bold"
-
             android:textColor="@color/black"
             app:cornerRadius="10dp"
             style="@style/Widget.MaterialComponents.Button.OutlinedButton"/>
